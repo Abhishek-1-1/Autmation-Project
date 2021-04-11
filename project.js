@@ -110,5 +110,5 @@ async function main(){
 
 }
                       
-main();                // you need to pass the product name as argument in command line for execution like this --- "project.js redmi note 9"
+main();                // you need to pass the product name as argument in command line for execution like this --- "node project.js redmi note 9"
  
